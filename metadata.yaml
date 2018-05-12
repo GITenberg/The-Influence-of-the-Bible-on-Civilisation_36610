@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '38375'
     url: http://www.gutenberg.org/2009/agents/38375
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36610#The-Influence-of-the-Bible-on-Civilisation
 gutenberg_issued: '2011-07-04'
 gutenberg_type: Text
 identifiers:
